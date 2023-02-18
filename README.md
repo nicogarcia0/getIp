@@ -13,8 +13,8 @@ Call the function
 const pubIp = getPubIp.getPubIp()
 ```
 
-Show or use the result
+Show or store the result
 ```
 console.log(pubIp)
-const publicIp = pubIp
+let publicIp = pubIp
 ```
